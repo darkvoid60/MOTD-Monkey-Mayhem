@@ -1,3 +1,4 @@
 The long awaited Summer / 4th Of July update is now here!
 Head into shop to get the new cosmetic's (Please note some may be broken).
 Sadly Timothy the Monster is still preparing but when he's ready it will be very scary.
+7/3/23 I released a patch that fixed cosmetic bug's and adds finger collider's for easier typing.
